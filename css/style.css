@@ -205,6 +205,10 @@ img {
   width: 49%;
 }
 
+.form-desktop-full {
+  width: 100%;
+}
+
 .form-desktop-3 {
   margin: auto;
 }
